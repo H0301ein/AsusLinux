@@ -1,5 +1,4 @@
 #!/bin/sh
-
 if [ $1 == "info" ]
 then
 	echo "CPU:"
